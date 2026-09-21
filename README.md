@@ -31,8 +31,8 @@ Two connected AI components:
 - PlantVillage dataset
 
 ## Prototype
-See `prototype_app_screenshot.png` for the app interface mockup and 
-`prototype_flow_diagram.png` for the end-to-end AI pipeline.
+See `img1.jpeg` for the app interface mockup and 
+`img2.jpeg` for the end-to-end AI pipeline.
 
 ## Responsible AI Considerations
 - **Fairness:** classifier limitations across regions/lighting flagged; 
@@ -43,5 +43,5 @@ See `prototype_app_screenshot.png` for the app interface mockup and
 - **Privacy:** no farmer personal or location data collected
 
 ## Author
-Aniruddha Mane 
+Aniruddha Mane ,
 Walchand College Of Engineering Sangli
