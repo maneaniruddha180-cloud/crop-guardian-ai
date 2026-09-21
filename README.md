@@ -43,4 +43,5 @@ See `prototype_app_screenshot.png` for the app interface mockup and
 - **Privacy:** no farmer personal or location data collected
 
 ## Author
-[Your Name], [Your College Name]
+Aniruddha Mane 
+Walchand College Of Engineering Sangli
